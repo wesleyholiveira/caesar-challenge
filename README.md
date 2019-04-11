@@ -1,6 +1,10 @@
 # caesar-challenge
 Desafio para Codenation
 
+## REQUERIMENTOS
+* Docker
+* docker-compose
+* Golang
 
 ## INSTRUÇÕES
 ### Rodar os seguintes comandos:
